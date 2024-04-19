@@ -1,0 +1,3 @@
+/Users/filipj169/Documents/Personal/Škola/1.ročník - ls/prog2/zadanie 4/cmake-build-debug/CMakeFiles/z4.dir
+/Users/filipj169/Documents/Personal/Škola/1.ročník - ls/prog2/zadanie 4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/filipj169/Documents/Personal/Škola/1.ročník - ls/prog2/zadanie 4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

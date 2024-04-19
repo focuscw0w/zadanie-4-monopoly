@@ -1,0 +1,1133 @@
+Players:
+1. S: 1, C: 16, JP: 0, IJ: no
+2. S: 1, C: 16, JP: 0, IJ: no
+3. S: 1, C: 16, JP: 0, IJ: no
+4. S: 1, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   
+6.   ICE CREAM SHOP    1  Skyblue   
+7.   IN JAIL
+8.   MUSEUM            2  Purple    
+9.   LIBRARY           2  Purple    
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 4
+Turn: 1
+Player on turn: P1
+
+Players:
+1. S: 5, C: 15, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+2. S: 1, C: 16, JP: 0, IJ: no
+3. S: 1, C: 16, JP: 0, IJ: no
+4. S: 1, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   
+7.   IN JAIL
+8.   MUSEUM            2  Purple    
+9.   LIBRARY           2  Purple    
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 5
+Turn: 2
+Player on turn: P2
+
+Players:
+1. S: 5, C: 15, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+2. S: 6, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 1, C: 16, JP: 0, IJ: no
+4. S: 1, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    
+9.   LIBRARY           2  Purple    
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 2
+Turn: 3
+Player on turn: P3
+
+Players:
+1. S: 5, C: 15, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+2. S: 6, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 3, C: 15, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+4. S: 1, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    
+9.   LIBRARY           2  Purple    
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 6
+Turn: 4
+Player on turn: P4
+
+Players:
+1. S: 5, C: 15, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+2. S: 6, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 3, C: 15, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+4. S: 7, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    
+9.   LIBRARY           2  Purple    
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 3
+Turn: 5
+Player on turn: P1
+
+Players:
+1. S: 8, C: 13, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 6, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 3, C: 15, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+4. S: 7, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 1
+Turn: 6
+Player on turn: P2
+
+Players:
+1. S: 8, C: 13, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 7, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 3, C: 15, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+4. S: 7, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 6
+Turn: 7
+Player on turn: P3
+
+Players:
+1. S: 8, C: 13, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 7, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 9, C: 13, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 7, C: 16, JP: 0, IJ: no
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 5
+Turn: 8
+Player on turn: P4
+
+Players:
+1. S: 8, C: 13, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 7, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 9, C: 13, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 12, C: 14, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 1
+Turn: 9
+Player on turn: P1
+
+Players:
+1. S: 9, C: 11, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 7, C: 15, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 9, C: 15, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 12, C: 14, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 2
+Turn: 10
+Player on turn: P2
+
+Players:
+1. S: 9, C: 11, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 9, C: 13, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 9, C: 17, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 12, C: 14, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 4
+Turn: 11
+Player on turn: P3
+
+Players:
+1. S: 9, C: 11, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 9, C: 13, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 13, C: 17, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 12, C: 14, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 6
+Turn: 12
+Player on turn: P4
+
+Players:
+1. S: 9, C: 11, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 9, C: 13, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 13, C: 17, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 18, C: 11, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 3
+Turn: 13
+Player on turn: P1
+
+Players:
+1. S: 12, C: 9, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 9, C: 13, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+3. S: 13, C: 17, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 18, C: 13, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 2
+Turn: 14
+Player on turn: P2
+
+Players:
+1. S: 12, C: 9, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 11, C: 11, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 13, C: 17, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+4. S: 18, C: 13, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 2
+Turn: 15
+Player on turn: P3
+
+Players:
+1. S: 12, C: 9, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 11, C: 11, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 15, C: 14, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+4. S: 18, C: 13, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 5
+Turn: 16
+Player on turn: P4
+
+Players:
+1. S: 12, C: 9, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+2. S: 11, C: 11, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 15, C: 14, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+4. S: 23, C: 8, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 2
+Turn: 17
+Player on turn: P1
+
+Players:
+1. S: 14, C: 6, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+2. S: 11, C: 11, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 15, C: 14, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+4. S: 23, C: 8, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 1
+Turn: 18
+Player on turn: P2
+
+Players:
+1. S: 14, C: 6, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+2. S: 12, C: 9, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 15, C: 14, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+4. S: 23, C: 10, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 6
+Turn: 19
+Player on turn: P3
+
+Players:
+1. S: 14, C: 6, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+2. S: 12, C: 9, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 21, C: 10, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+      THE ZOO           4  Green     S21
+4. S: 23, C: 10, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     P3 no
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 6
+Turn: 20
+Player on turn: P4
+
+Players:
+1. S: 14, C: 7, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+2. S: 12, C: 9, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 21, C: 10, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+      THE ZOO           4  Green     S21
+4. S: 5, C: 11, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     P3 no
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 3
+Turn: 21
+Player on turn: P1
+
+Players:
+1. S: 17, C: 4, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+      COMMUNITY GARDEN  3  Yellow    S17
+2. S: 12, C: 9, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 21, C: 10, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+      THE ZOO           4  Green     S21
+4. S: 5, C: 11, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    P1 no
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     P3 no
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 3
+Turn: 22
+Player on turn: P2
+
+Players:
+1. S: 17, C: 4, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+      COMMUNITY GARDEN  3  Yellow    S17
+2. S: 15, C: 6, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 21, C: 13, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+      THE ZOO           4  Green     S21
+4. S: 5, C: 11, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     
+3.   PIZZA RESTAURANT  1  Brown     P3 no
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    P1 no
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     P3 no
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 5
+Turn: 23
+Player on turn: P3
+
+Players:
+1. S: 17, C: 4, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+      COMMUNITY GARDEN  3  Yellow    S17
+2. S: 15, C: 6, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 2, C: 14, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+      THE ZOO           4  Green     S21
+      FOOD TRUCK        1  Brown     S2
+4. S: 5, C: 11, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     P3 yes
+3.   PIZZA RESTAURANT  1  Brown     P3 yes
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    P1 no
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     P3 no
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 4
+Turn: 24
+Player on turn: P4
+
+Players:
+1. S: 17, C: 4, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+      COMMUNITY GARDEN  3  Yellow    S17
+2. S: 15, C: 6, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 2, C: 16, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+      THE ZOO           4  Green     S21
+      FOOD TRUCK        1  Brown     S2
+4. S: 9, C: 9, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     P3 yes
+3.   PIZZA RESTAURANT  1  Brown     P3 yes
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    P1 no
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     P3 no
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: -
+
+R: 6
+Turn: 25
+Player on turn: P1
+
+Players:
+1. S: 23, C: 4, JP: 0, IJ: no
+      DOUGHNUT SHOP     1  Skyblue   S5
+      MUSEUM            2  Purple    S8
+      POST OFFICE       3  Red       S14
+      COMMUNITY GARDEN  3  Yellow    S17
+2. S: 15, C: 6, JP: 0, IJ: no
+      ICE CREAM SHOP    1  Skyblue   S6
+      THE PARK          2  Orange    S11
+3. S: 2, C: 16, JP: 0, IJ: no
+      PIZZA RESTAURANT  1  Brown     S3
+      LIBRARY           2  Purple    S9
+      TRAIN STATION     3  Red       S15
+      THE ZOO           4  Green     S21
+      FOOD TRUCK        1  Brown     S2
+4. S: 9, C: 9, JP: 0, IJ: no
+      THE BEACH         2  Orange    S12
+      PET RESCUE        3  Yellow    S18
+      WATER PARK        5  Blue      S23
+Game board:
+1.   START
+2.   FOOD TRUCK        1  Brown     P3 yes
+3.   PIZZA RESTAURANT  1  Brown     P3 yes
+4.   JAIL PASS
+5.   DOUGHNUT SHOP     1  Skyblue   P1 no
+6.   ICE CREAM SHOP    1  Skyblue   P2 no
+7.   IN JAIL
+8.   MUSEUM            2  Purple    P1 no
+9.   LIBRARY           2  Purple    P3 no
+10.  JAIL PASS
+11.  THE PARK          2  Orange    P2 no
+12.  THE BEACH         2  Orange    P4 no
+13.  FREE PARKING
+14.  POST OFFICE       3  Red       P1 no
+15.  TRAIN STATION     3  Red       P3 no
+16.  JAIL PASS
+17.  COMMUNITY GARDEN  3  Yellow    P1 no
+18.  PET RESCUE        3  Yellow    P4 no
+19.  GO TO JAIL
+20.  AQUARIUM          4  Green     
+21.  THE ZOO           4  Green     P3 no
+22.  JAIL PASS
+23.  WATER PARK        5  Blue      P4 no
+24.  AMUSEMENT PARK    5  Blue      
+WINNER: P3
+
